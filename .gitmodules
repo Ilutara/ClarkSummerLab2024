@@ -1,0 +1,6 @@
+[submodule "Mixture-of-Depths"]
+	path = Mixture-of-Depths
+	url = https://github.com/kyegomez/Mixture-of-Depths
+[submodule "DejaVu"]
+	path = DejaVu
+	url = https://github.com/FMInference/DejaVu
